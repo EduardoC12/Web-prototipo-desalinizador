@@ -1,0 +1,1294 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+/*=============================================================================*/
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+/*======================= HEADER =======================*/
+
+header .idi img
+{
+    width: 95px;
+    padding-top: 5%;
+    padding-left: 6%;
+    display: none;
+}
+
+.idimg a img
+{
+    width: 95px;
+    padding-top: 5%;
+    cursor: pointer;
+}
+
+header
+{
+    width: 100%;
+    position: relative;
+    position: fixed;
+    z-index: 10;
+    color: white;
+    font-weight: 500;
+}
+
+.id                                                                                                                                                                                                
+{
+    width: 100%;
+    padding-left: 6%;
+    padding-right: 6%;
+    height: 13vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    transition: all 0.5s ease;
+}
+
+.main li
+{
+    display: inline-block;
+    list-style: none;
+    margin: 0px 10px;
+    text-transform: uppercase;
+}
+
+.main li a
+{
+    text-decoration: none;
+    color: white;
+}
+
+.main li i
+{
+    margin-right: 5px;
+    display: none;
+}
+
+.main li a::after
+{
+    content: '';
+    width: 0%;
+    height: 2px;
+    background: #fff;
+    display: block;
+    margin: auto;
+    transition: all 0.5s ease;
+}
+
+.main li a:hover::after
+{
+    width: 100%;
+}
+
+.id.active
+{
+    background: #fff;
+    height: 11vh;
+}
+
+.id.active li a
+{
+    color: #000;
+}
+
+.id.active li a:hover::after
+{
+    width: 100%;
+    background: #000;
+}
+
+
+/*===================================RESPONSIVE HEADER===================================*/
+@media screen and (max-width: 640px)
+{
+    header .idimg
+    {
+        display: none;
+    }
+
+    header
+    {
+        position: absolute;
+    }
+
+    header .idi img
+    {
+        display: initial;
+        width: 85px;
+    }
+
+    .id.active
+    {
+        background: transparent;
+    }
+
+    .nav-main
+    {
+        width: 100%;
+        position: fixed;
+        bottom: 30px;
+        background: rgb(255, 255, 255);
+        box-shadow: 0 10px 24px rgba(76, 80, 95, 0.15);
+        width: 80%;
+        left: 0;
+        right: 0;
+        margin: 0 auto;
+        padding: 9px 18px;
+        border-radius: 30px;
+        transition: .4s;
+
+    }
+
+    .main
+    {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .main li 
+    {
+        color: #0c0c0c;
+        padding: 2px;
+        border-radius: 50%;
+    }
+
+    .main li i
+    {
+        display: initial;
+        color: #000;
+        font-size: 25px;
+    }
+
+    .main li span
+    {
+        display: none;
+    }
+}
+
+/*======================= SECCIÓN1 =======================*/
+.s1
+{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 1) 35%, rgba(0, 0, 0, .7) 50%, rgba(0, 0, 0, .4) 80%, rgba(0, 0, 0, 0) 100%), url(../assets/img/Radar.png);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+}
+
+.s1 .textt
+{
+    position: absolute;
+    margin-top: 140px;
+    margin-left: auto;
+    width: 100%;
+    text-align: center;
+    color: white;
+}
+
+.s1 .textt h1
+{
+    font-size: 60px;
+    font-weight: 600;
+    letter-spacing: 3px;
+    padding-bottom: 8px;
+}
+
+.s1 .textt p
+{
+    margin-bottom: 50px;
+    font-size: 18px;
+    color: hsl(0, 0%, 79%);
+}
+
+.btn-home
+{
+    background: transparent;
+    text-decoration: none;
+    color: white;
+    border: 2px solid white;
+    padding: 8px 20px;
+    transition: all .6s ease;
+}
+
+.btn-home:hover
+{
+    background: #fff;
+    color: #000;
+}
+
+/*===================================RESPONSIVE SECCION 1===================================*/
+@media screen and (max-width: 640px)
+{
+    .s1
+    {
+        width: 100%;
+        height: 100vh;
+        background-image: linear-gradient(rgba(15, 15, 15, 0.3), rgba(15, 15, 15, 0.3)), url(../img/Radar.png);
+        background-position: center;
+        background-size: cover;
+    }
+
+    .s1 .textt
+    {
+        position: absolute;
+        margin-top: 150px;
+        margin-left: auto;
+        max-width: 100%;
+        text-align: center;
+        color: white;
+    }
+
+    .s1 .textt h1
+    {
+        font-size: 30px;
+        font-weight: 600;
+        letter-spacing: 3px;
+    }
+
+    .s1 .textt p
+    {
+        margin-bottom: 50px;
+        font-size: 16px;
+        color: hsl(0, 0%, 79%);
+    }
+
+    .btn-home
+    {
+        background: transparent;
+        text-decoration: none;
+        color: white;
+        border: 2px solid white;
+        padding: 8px 20px;
+        transition: all .6s ease;
+    }
+
+    .btn-home:hover
+    {
+        background: #fff;
+        color: #000;
+    }
+}
+
+
+/*======================= SECCIÓN2 =======================*/
+.s2
+{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 1) 35%, rgba(0, 0, 0, .7) 50%, rgba(0, 0, 0, .4) 80%, rgba(0, 0, 0, 0) 100%), url(../img/Radar.png);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    text-align: center;
+
+}
+
+.s2 i
+{
+    font-size: 40px;
+    transition: all .5s ease;
+}
+
+.s2 i:hover
+{
+    transform: translate3d(0, -4px, 0);
+}
+
+.s2 h1
+{
+    font-size: 35px;
+    font-weight: 600;
+}
+
+.s2 .rows
+{
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.rows .obj
+{
+    flex-basis: 32%;
+    background: white;
+    border-radius: 10px;
+    margin-bottom: 20px 12px;
+    padding: 20px 12px;
+    box-sizing: border-box;
+    transition: all .5s;
+}
+
+.rows .obj h3
+{
+    text-align: center;
+    font-weight: 600;
+    padding-bottom: 10px;
+}
+
+.rows .obj:hover
+{
+    box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.2);
+}
+
+/*===================================RESPONSIVE SECCION 2===================================*/
+@media screen and (max-width: 640px)
+{
+    .s2
+    {
+        width: 80%;
+        margin: auto;
+        text-align: center;
+        padding-top: 50px;
+        height: 170vh;
+    }
+
+    .s2 i
+    {
+        font-size: 25px;
+    }
+
+    .s2 h1
+    {
+        font-size: 25px;
+        font-weight: 600;
+    }
+
+    .s2 .rows
+    {
+        margin-top: 60px;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .rows .obj
+    {
+        flex-basis: 32%;
+        background: #6464642f;
+        border-radius: 10px;
+        margin-bottom: 35px;
+        padding: 20px 12px;
+        box-sizing: border-box;
+        transition: all .5s;
+    }
+
+    .rows .obj h3
+    {
+        text-align: center;
+        font-weight: 600;
+        padding-bottom: 10px;
+    }
+
+    .rows .obj
+    {
+        font-size: 15px;
+    }
+
+    .rows .obj:hover
+    {
+        box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.2);
+    }
+}
+
+/*======================= SECCIÓN3 =======================*/
+.s3
+{
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 1) 35%, rgba(0, 0, 0, .7) 50%, rgba(0, 0, 0, .4) 80%, rgba(0, 0, 0, 0) 100%), url(../img/Radar.png);
+    display: flex;
+    align-items: center;
+}
+
+.s3 .text
+{
+    color: white;
+    max-width: 500px;
+    height: 500px;
+    margin-left: 10%;
+}
+
+.text h1
+{
+    font-size: 35px;
+    padding-bottom: 35px;
+}
+
+.text p
+{
+    padding-bottom: 45px;
+    line-height: 28px;
+}
+
+.text a
+{
+    color: white;
+    padding: 7px 26px;
+    text-decoration: none;
+    border: 1px solid white;
+    border-radius: 12px;
+    transition: all .6s ease;
+    position: absolute;
+}
+
+.s3 a:hover
+{
+    background: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    box-shadow: 0 2px 6px 0 rgb(146, 146, 146);
+    transform: translate3d(0, -4px, 0);
+}
+
+/*===================================RESPONSIVE SECCION 3===================================*/
+@media screen and (max-width: 640px)
+{
+    .s3
+    {
+        width: 100%;
+        height: 150vh;
+        background-position: center;
+        background-size: cover;
+        background-attachment: fixed;
+        position: relative;
+        background-image: linear-gradient(to right, rgba(0, 0, 0, 1) 10%, rgba(0, 0, 0, .7) 40%, rgba(0, 0, 0, .4) 100%, rgba(0, 0, 0, 0) 100%), url(../img/Radar.png);
+        display: flex;
+    }
+    
+    .s3 .text
+    {
+        color: white;
+        max-width: 270px;
+        height: 130vh;
+        margin-left: 10%;
+    }
+
+    .text h1
+    {
+        font-size: 25px;
+        padding-bottom: 35px;
+    }
+}
+
+
+/*======================= SECCIÓN4 =======================*/
+.s4
+{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 1) 35%, rgba(0, 0, 0, .7) 50%, rgba(0, 0, 0, .4) 80%, rgba(0, 0, 0, 0) 100%), url(../img/Radar.png);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    text-align: center;
+}
+ .s4 .text
+{
+    color: white;
+    max-width: 500px;
+    height: 500px;
+    margin-left: 10%;
+}
+
+.s4 i
+{
+    padding-top: 50px;
+    font-size: 40px;
+    transition: all .5s ease;
+}
+
+.s4 i:hover
+{
+    transform: translate3d(0, -4px, 0);
+}
+
+.s4 h1
+{
+    font-size: 35px;
+    padding-bottom: 15px;
+}
+
+.s4 p
+{
+    font-size: 18px;
+}
+
+.s4 .container-img
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: 2.4rem;
+}
+
+.cuadro
+{
+    width: 100%;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cuadro figure
+{
+    position:relative;
+    height: 290px;
+    cursor: pointer;
+    width: 350px;
+    overflow: hidden;
+    border-radius: 6px;
+    box-shadow: 0px 15px 25px rgba(0,0,0,0.50);
+}
+
+.cuadro figure img
+{
+    width: 100%;
+    height: 100%;
+    transition: all 400ms ease-out;
+    will-change: transform;
+}
+
+.cuadro figure .capa
+{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(255, 12, 12, 0);
+    transition: all 400ms ease-out;
+    opacity: 0;
+    visibility: hidden;
+    text-align: center;
+}
+
+.cuadro figure:hover > .capa
+{
+    opacity: 1;
+    visibility: visible;
+}
+
+.cuadro figure:hover > .capa h3
+{          
+    margin-top: 100px;
+    margin-bottom: 15px;
+}
+
+.cuadro figure:hover > img
+{
+    filter: blur(3px) brightness(35%);
+    transform: scale(2.0);
+}
+
+.cuadro figure .capa h3
+{
+    font-size: 1.5rem;
+    display: flex;
+    height: 15vh;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-weight: 400;
+    margin-bottom: 120px;
+    transition: all 400ms ease-out;
+    margin-top: 30px;
+}
+
+.cuadro figure .capa p
+{
+    color: #fff;
+    line-height: 1.5;
+    width: 100%;
+    max-width: 220px;
+    margin: auto;
+}
+
+/*===================================RESPONSIVE SECCION 4===================================*/
+@media screen and (max-width: 640px)
+{
+
+    .s4
+    {
+       width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 1) 35%, rgba(0, 0, 0, .7) 50%, rgba(0, 0, 0, .4) 80%, rgba(0, 0, 0, 0) 100%), url(../img/Radar.png);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    text-align: center;
+    }
+    .s4 .textt
+    {
+    position: absolute;
+    margin-top: 140px;
+    margin-left: auto;
+    width: 100%;
+    text-align: center;
+    color: white;
+    }
+    .s4 h1
+    {
+        font-size: 25px;
+        max-width: 280px;
+        margin: 0 auto;
+        padding-bottom: 15px;
+    }
+
+    .s4 p
+    {
+        font-size: 16px;
+        margin-bottom: 60px;
+    }
+
+    .s4 .container-img
+    {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        position: relative;
+        bottom: 10px;
+    }
+
+    .cuadro
+    {
+        width: 100%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 80px;
+    }
+
+    .cuadro figure
+    {
+        position:relative;
+        height: 230px;
+        cursor: pointer;
+        width: 280px;
+        overflow: hidden;
+        border-radius: 6px;
+        box-shadow: 0px 15px 25px rgba(0,0,0,0.50);
+    }
+}
+
+
+/*======================= SECCIÓN5 =======================*/
+.s5 
+{
+    text-align: center;
+      background-image:linear-gradient(to left bottom, #ffffff, #d8d8d8, #b3b2b2, #8e8e8d, #6b6b6a);
+    background-size: #000 / cover;
+    width: 100%;
+    height: auto;
+    color: #000;
+}
+
+.s5 h1
+{
+    background-size: #000 / cover;
+    text-align: center;
+    font-size: 35px;
+    color: rgb(255, 255, 255);
+    padding-top: 20px;
+    padding-bottom: 18px;
+}
+
+.s5 p
+{
+    color: hsl(0, 1%, 66%);
+    font-weight: 400;
+    font-size: 18px;
+    padding-bottom: 40px;
+}
+
+.concept-two 
+{
+    display: grid;
+    grid: 100% / repeat(8, 1fr);
+    padding: 8em 15em;
+     background-image:linear-gradient(to left bottom, #ffffff, #d8d8d8, #b3b2b2, #8e8e8d, #6b6b6a);
+}
+
+.concept-two .hover
+{
+    position: relative;
+    display: grid;
+    place-items: center;
+}
+
+.concept-two h1
+{
+    color: transparent;
+    text-align: 0 1px 1px;
+    -webkit-text-stroke: 2px #fff;
+    text-shadow: none;
+    transition: 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.concept-two .hover:hover h1
+{
+    transform: scale(1.5);
+    color: #fff;
+    -webkit-text-stroke: 2px transparent;
+    text-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+} 
+
+.concept-three
+{
+    display: grid;
+    grid: 100% / repeat(7, 2fr);
+    padding: 8em 16em;
+    background: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.7)), url(camp.gif)  center center / cover;
+}
+
+.concept-three .hover
+{
+    position: relative;
+    display: grid;
+    place-items: center;
+}
+
+.concept-three h1
+{
+    color: transparent;
+    text-align: 0 1px 1px;
+    -webkit-text-stroke: 2px #fff;
+    text-shadow: none;
+    transition: 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.concept-three .hover:hover h1
+{
+    transform: scale(1.5);
+    color: #fff;
+    -webkit-text-stroke: 2px transparent;
+    text-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+} 
+
+.concept-four
+{
+    display: grid;
+    grid: 100% / repeat(7, 2fr);
+    padding: 8em 15em;
+    background: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.7)), url(wat.gif) center center / cover;
+   
+}
+
+.concept-three .four
+{
+    position: relative;
+    display: grid;
+    place-items: center;
+}
+
+.concept-four h1
+{
+    color: transparent;
+    text-align: 0 1px 1px;
+    -webkit-text-stroke: 2px #fff;
+    text-shadow: none;
+    transition: 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.concept-four .hover:hover h1
+{
+    transform: scale(1.5);
+    color: #fff;
+    -webkit-text-stroke: 2px transparent;
+    text-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+} 
+
+.apart
+{
+    border: rgb(0, 0, 0) 1px solid;
+    background-color: #000;
+    height: 20px;
+}
+
+.apart2
+{
+    border: hsl(0, 0%, 12%) 5px solid;
+}
+
+.apart3
+{
+    border: hsl(0, 0%, 12%) 5px solid;
+}
+
+.apart4
+{
+    border: hsl(0, 0%, 12%) 5px solid;
+}
+
+/*===================================RESPONSIVE SECCION 4===================================*/
+@media screen and (max-width: 640px)
+{
+
+    .s5 h1
+    {
+        background-size: #000 / cover;
+        text-align: center;
+        font-size: 25px;
+        color: rgb(255, 255, 255);
+        padding-top: 20px;
+        padding-bottom: 18px;
+        margin: 0 auto;
+    }
+
+    .s5 p
+    {
+        color: hsl(0, 1%, 66%);
+        font-weight: 400;
+        font-size: 16px;
+        padding-bottom: 40px;
+        max-width: 280px;
+        margin: 0 auto;
+    }
+
+    .concept-two 
+    {
+        display: grid;
+        grid: 100% / repeat(8, 1fr);
+        padding: 100px 30px;
+        background: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.7)), url(gim.gif)  center center / cover;
+    }
+
+    .concept-two .hover
+    {
+        position: relative;
+        display: grid;
+        place-items: center;
+    }
+
+    .concept-two h1
+    {
+        color: transparent;
+        text-align: 0 1px 1px;
+        -webkit-text-stroke: 2px #fff;
+        text-shadow: none;
+        transition: 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    }
+
+    .concept-two .hover:hover h1
+    {
+        transform: scale(1.5);
+        color: #fff;
+        -webkit-text-stroke: 2px transparent;
+        text-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    } 
+
+    .concept-three
+    {
+        display: grid;
+        grid: 100% / repeat(7, 2fr);
+        padding: 100px 30px;
+        background: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.7)), url(camp.gif)  center center / cover;
+    }
+
+    .concept-three .hover
+    {
+        position: relative;
+        display: grid;
+        place-items: center;
+    }
+
+    .concept-three h1
+    {
+        color: transparent;
+        text-align: 0 1px 1px;
+        -webkit-text-stroke: 2px #fff;
+        text-shadow: none;
+        transition: 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    }
+
+    .concept-three .hover:hover h1
+    {
+        transform: scale(1.5);
+        color: #fff;
+        -webkit-text-stroke: 2px transparent;
+        text-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    } 
+
+    .concept-four
+    {
+        display: grid;
+        grid: 100% / repeat(7, 2fr);
+        padding: 100px 30px;
+        background: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.7)), url(wat.gif) center center / cover;
+    
+    }
+
+    .concept-three .four
+    {
+        position: relative;
+        display: grid;
+        place-items: center;
+    }
+
+    .concept-four h1
+    {
+        color: transparent;
+        text-align: 0 1px 1px;
+        -webkit-text-stroke: 2px #fff;
+        text-shadow: none;
+        transition: 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    }
+
+    .concept-four .hover:hover h1
+    {
+        transform: scale(1.5);
+        color: #fff;
+        -webkit-text-stroke: 2px transparent;
+        text-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    } 
+
+    .apart
+    {
+        border: rgb(0, 0, 0) 1px solid;
+        background-color: #000;
+        height: 20px;
+    }
+
+    .apart2
+    {
+        border: hsl(0, 0%, 12%) 5px solid;
+    }
+
+    .apart3
+    {
+        border: hsl(0, 0%, 12%) 5px solid;
+    }
+
+    .apart4
+    {
+        border: hsl(0, 0%, 12%) 5px solid;
+    }
+}
+
+/*======================= gallery =======================*/
+.gallery
+{
+    width: 100;
+    height: 90vh;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.gallery h1
+{
+    font-size: 35px;
+}
+
+.gallery .fotorama
+{
+    width: 50%;
+}
+
+/*===================================RESPONSIVE GALLERY===================================*/
+@media screen and (max-width: 640px)
+{
+    .gallery
+    {
+        width: 100;
+        height: 60vh;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        
+    }
+
+    .gallery h1
+    {
+        font-size: 25px;
+        max-width: 300px;
+        margin-bottom: 30px;
+    }
+
+    .gallery .fotorama
+    {
+        margin: 0 auto;
+        width: 80%;
+    }
+}
+
+/*=======================   CONTADOR =======================*/
+
+.cont 
+{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(to right bottom, #212121, #1b1b1b, #141414, #0c0c0c, #000000);
+    color: white;
+    text-align: center;
+}
+
+.cont h1
+{
+    font-size: 40px;
+    padding-top: 70px;
+    padding-bottom: 100px;
+}
+
+.cont .container
+{
+    max-width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cont .row
+{
+    width: 400px;
+}
+
+.cont .col div
+{
+    font-size: 60px;
+}
+
+.cont .col h3
+{
+    font-size: 25px;
+    padding-bottom: 25px;
+}
+
+.about svg
+{
+    position: absolute;
+    top: -230px;
+    width: 100%;
+}
+
+/*===================================RESPONSIVE GALLERY===================================*/
+@media screen and (max-width: 640px)
+{
+    .cont 
+    {
+        width: 100%;
+        height: 130vh;
+        background-image: linear-gradient(to right bottom, #212121, #1b1b1b, #141414, #0c0c0c, #000000);
+        color: white;
+        text-align: center;
+    }
+
+    .cont h1
+    {
+        font-size: 30px;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .cont .container
+    {
+        max-width: 80%;
+        margin: auto;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        padding-bottom: 50px;
+    }
+
+    .cont .row
+    {
+        width: 400px;
+        padding-bottom: 40px;
+    }
+
+    .cont .col div
+    {
+        font-size: 50px;
+    }
+
+    .cont .col h3
+    {
+        font-size: 25px;
+        padding-bottom: 10px;
+    }
+}
+
+
+/*======================= FOOTER =======================*/
+.about
+{
+    width: 100%;
+    height: 380px;
+    padding: 15vh 0;
+    line-height: 1.8;
+    position: relative;
+}
+
+.about .rows
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.container
+{
+    max-width: 80%;
+    margin: auto;
+    padding-bottom: 15px;
+    position: relative;
+}
+
+.footer-about 
+{
+    width: 32%;
+    padding: 0 15px;
+    position: relative;
+}
+
+.footer-about ul
+{
+    list-style: none;
+}
+
+.footer-about h4
+{
+    font-size: 18px;
+    color: #000;
+    text-transform: capitalize;
+    margin-bottom: 30px;
+    font-weight: 500;
+    position: relative;
+}
+
+.footer-about h4::before
+{
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -10px;
+    width: 70px;
+    background: #000;
+    height: 2px;
+    box-sizing: border-box;
+}
+
+.footer-about h4 ul li:not(:last-child)
+{
+    margin-bottom: 10px;
+}
+
+.footer-about ul li a
+{
+    font-size: 16px;
+    text-transform: capitalize;
+    color: #000;
+    text-decoration: none;
+    font-weight: 400;
+    color: rgb(51, 51, 51);
+    transition: all .5s ease;
+}
+
+.footer-about ul li
+{
+    color: rgb(51, 51, 51);
+}
+
+.footer-about ul li a:hover
+{
+    
+    color: rgb(0, 0, 0);
+    padding-left: 9px;
+}
+
+.footer-about .social a
+{
+    display: inline-block;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    height: 40px;
+    width: 40px;
+    background-color: rgb(0, 0, 0);
+    margin: 0 12px 12px 0;
+    text-align: center;
+    line-height: 45px;
+    border-radius: 50%;
+    transition: all .5s ease;
+}
+
+.footer-about .social a:hover
+{
+    transform: translateY(-5px);
+    box-shadow: rgb(0, 0, 0) 0 2px 6px 0;
+}
+
+.about hr
+{
+    width: 80%;
+    display: flex;
+    margin: auto;
+}
+
+.about .all
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    font-weight: 500;
+}
+
+.about .nam
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0;
+}
+
+.about .nam span
+{
+    font-weight: 500;
+}
+
+/*===================================RESPONSIVE GALLERY===================================*/
+@media screen and (max-width: 640px)
+{
+   
+.footer-about 
+{
+    width: 100%;
+    padding: 0 15px;
+    position: relative;
+}
+
+.about .nam
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-bottom: 130px;
+}
+
+.about svg
+{
+    top: -60px
+}
+
+}

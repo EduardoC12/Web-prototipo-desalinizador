@@ -1,0 +1,1188 @@
+CRITICAL - 2023-02-20 04:56:07 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 04:56:34 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 04:56:42 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 04:56:50 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 04:56:58 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 04:57:06 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 04:57:13 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 04:57:21 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 04:57:32 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 04:57:39 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 04:57:47 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 04:57:55 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 04:58:03 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 04:58:12 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 04:58:20 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 04:58:28 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 04:58:36 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 04:58:45 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 04:58:54 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 04:59:03 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 04:59:11 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 04:59:20 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 04:59:30 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 04:59:39 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 04:59:48 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 04:59:56 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:00:37 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:00:45 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:00:54 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:01:02 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:01:13 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:01:22 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:01:32 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:01:40 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:01:48 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:01:58 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:02:07 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:02:15 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:02:24 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:02:33 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:02:43 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:02:52 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:03:02 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:03:10 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:03:19 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:03:28 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:03:38 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:03:47 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:03:55 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:04:04 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:04:12 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:04:21 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:04:31 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:04:40 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:04:48 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:04:56 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:05:04 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:05:13 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:05:22 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:05:30 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:05:39 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:05:48 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:05:58 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:06:08 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:06:18 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:06:50 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:06:59 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:07:07 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:07:15 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:07:24 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:07:32 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:07:41 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:07:49 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:07:58 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:08:06 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:08:15 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:08:23 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:08:31 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:08:40 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:08:50 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:09:01 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:09:10 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:09:19 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:09:27 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:09:37 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:09:45 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:09:54 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:10:04 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:10:14 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:19:48 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:19:57 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:20:05 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:20:13 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:20:22 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:20:31 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:20:44 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:23:41 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:23:49 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:23:58 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:24:06 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:24:15 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:24:23 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:24:32 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:24:41 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:24:49 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:24:58 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:25:06 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:25:15 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:25:23 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 05:25:32 --> There is no data to insert.
+in SYSTEMPATH/BaseModel.php on line 762.
+ 1 SYSTEMPATH/BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/Model.php(729): CodeIgniter\BaseModel->insert()
+ 3 APPPATH/Controllers/HistorialController.php(33): CodeIgniter\Model->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\HistorialController->historialInfo()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 08:09:02 --> Class "Sp\SRP\SpMqtt\Client" not found
+in APPPATH/Controllers/HistorialController.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\HistorialController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 08:09:10 --> Class "Sp\SRP\SpMqtt\Client" not found
+in APPPATH/Controllers/HistorialController.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\HistorialController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 08:09:19 --> Class "Sp\SRP\SpMqtt\Client" not found
+in APPPATH/Controllers/HistorialController.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\HistorialController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 08:09:27 --> Class "Sp\SRP\SpMqtt\Client" not found
+in APPPATH/Controllers/HistorialController.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\HistorialController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 08:09:37 --> Class "Sp\SRP\SpMqtt\Client" not found
+in APPPATH/Controllers/HistorialController.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\HistorialController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 08:09:55 --> Class "Sp\SRP\SpMqtt\Client" not found
+in APPPATH/Controllers/HistorialController.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\HistorialController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 08:09:58 --> Class "Sp\SRP\SpMqtt\Client" not found
+in APPPATH/Controllers/HistorialController.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\HistorialController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 08:10:08 --> Class "Sp\SRP\SpMqtt\Client" not found
+in APPPATH/Controllers/HistorialController.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\HistorialController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 08:10:18 --> Class "Sp\SRP\SpMqtt\Client" not found
+in APPPATH/Controllers/HistorialController.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\HistorialController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 08:10:26 --> Class "Sp\SRP\SpMqtt\Client" not found
+in APPPATH/Controllers/HistorialController.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\HistorialController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 08:10:35 --> Class "Sp\SRP\SpMqtt\Client" not found
+in APPPATH/Controllers/HistorialController.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\HistorialController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 08:10:44 --> Class "Sp\SRP\SpMqtt\Client" not found
+in APPPATH/Controllers/HistorialController.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\HistorialController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 08:10:52 --> Class "Sp\SRP\SpMqtt\Client" not found
+in APPPATH/Controllers/HistorialController.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\HistorialController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 08:11:01 --> Class "Sp\SRP\SpMqtt\Client" not found
+in APPPATH/Controllers/HistorialController.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\HistorialController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 08:11:10 --> Class "Sp\SRP\SpMqtt\Client" not found
+in APPPATH/Controllers/HistorialController.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\HistorialController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 08:11:18 --> Class "Sp\SRP\SpMqtt\Client" not found
+in APPPATH/Controllers/HistorialController.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\HistorialController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 08:11:28 --> Class "Sp\SRP\SpMqtt\Client" not found
+in APPPATH/Controllers/HistorialController.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\HistorialController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 08:11:38 --> Class "Sp\SRP\SpMqtt\Client" not found
+in APPPATH/Controllers/HistorialController.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\HistorialController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 08:11:47 --> Class "Sp\SRP\SpMqtt\Client" not found
+in APPPATH/Controllers/HistorialController.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\HistorialController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 08:11:56 --> Class "Sp\SRP\SpMqtt\Client" not found
+in APPPATH/Controllers/HistorialController.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\HistorialController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 08:12:05 --> Class "Sp\SRP\SpMqtt\Client" not found
+in APPPATH/Controllers/HistorialController.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\HistorialController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 08:12:14 --> Class "Sp\SRP\SpMqtt\Client" not found
+in APPPATH/Controllers/HistorialController.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\HistorialController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 08:12:24 --> Class "Sp\SRP\SpMqtt\Client" not found
+in APPPATH/Controllers/HistorialController.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\HistorialController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 08:12:33 --> Class "Sp\SRP\SpMqtt\Client" not found
+in APPPATH/Controllers/HistorialController.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\HistorialController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 08:12:43 --> Class "Sp\SRP\SpMqtt\Client" not found
+in APPPATH/Controllers/HistorialController.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\HistorialController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 08:12:52 --> Class "Sp\SRP\SpMqtt\Client" not found
+in APPPATH/Controllers/HistorialController.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\HistorialController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 08:13:00 --> Class "Sp\SRP\SpMqtt\Client" not found
+in APPPATH/Controllers/HistorialController.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\HistorialController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 08:13:10 --> Class "Sp\SRP\SpMqtt\Client" not found
+in APPPATH/Controllers/HistorialController.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\HistorialController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 08:13:19 --> Class "Sp\SRP\SpMqtt\Client" not found
+in APPPATH/Controllers/HistorialController.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\HistorialController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 08:13:28 --> Class "Sp\SRP\SpMqtt\Client" not found
+in APPPATH/Controllers/HistorialController.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\HistorialController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 08:13:36 --> Class "Sp\SRP\SpMqtt\Client" not found
+in APPPATH/Controllers/HistorialController.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\HistorialController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 08:13:45 --> Class "Sp\SRP\SpMqtt\Client" not found
+in APPPATH/Controllers/HistorialController.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\HistorialController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-20 08:13:54 --> Class "Sp\SRP\SpMqtt\Client" not found
+in APPPATH/Controllers/HistorialController.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\HistorialController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
